@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @rosinys
+### 👋 Hi, I’m Yonatan Rosin
 
 - 🎓 M.S. in Business Analytics @ RIT
 - 👀 Interested in **Data & Business Analytics**
