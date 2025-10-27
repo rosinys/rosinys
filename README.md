@@ -1,5 +1,6 @@
-##
-👋 Hi there I’m Yonatan Rosin👋
-🎓 M.S. in Business Analytics
-👀 I’m interested in Data & Business Analytics
-📫 How to reach me: yonatanros28@gmail.com
+### 👋 Hi, I’m @rosinys
+
+🎓 M.S. in Business Analytics @ RIT
+👀 Interested in **Data & Business Analytics**
+🛠️ Skilled in **SQL, Python, R, Power BI, Tableau**
+📫 Reach me at: [yonatanros28@gmail.com]
